@@ -6,7 +6,7 @@ After that, we did some preprocessing by removing stopwords from our dataset and
 
 Then, we wrote functions for initializing parameters, for Log-likelihood and e/mstep. Finally, we summarize our solution to the result function and call it.
 
-Code.ipynb - main notebook with implementation inside
-dataset.txt - text input
-stopwords.dic - downloaded from web basic stopwords list
-results: dictionary.dic, docTopicDistribution.txt, topicWordDistribution.txt
+Code.ipynb - main notebook with implementation inside;
+dataset.txt - text input;
+stopwords.dic - downloaded from web basic stopwords list;
+results: dictionary.dic, docTopicDistribution.txt, topicWordDistribution.txt.
