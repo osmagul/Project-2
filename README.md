@@ -1,4 +1,5 @@
 # Project-2
+Probabilistic Latent Semantic Indexing Implementation
 
 First of all, we import all needed libraries: from numpy zeros, int8 and log; from pylab random function; regular expression function - re; function for returning number of seconds passed since epoch - time; codec registry and base classes - codecs.
 
